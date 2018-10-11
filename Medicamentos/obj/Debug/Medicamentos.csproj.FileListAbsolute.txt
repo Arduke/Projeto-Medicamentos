@@ -1,0 +1,13 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\bin\Debug\Medicamentos.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\obj\Debug\Medicamentos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Medicamentos\Medicamentos\obj\Debug\Medicamentos.pdb
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe.config
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\bin\Debug\Medicamentos.exe
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\bin\Debug\Medicamentos.pdb
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csprojAssemblyReference.cache
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.exe
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.pdb
