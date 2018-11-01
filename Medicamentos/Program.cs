@@ -18,7 +18,7 @@ namespace Projeto_Medicamento
             Queue<Lote> lotes = new Queue<Lote>();
 
 
-            int op;
+            int ax;
 
             #region display
             Console.WriteLine("0. Finalizar");
@@ -36,9 +36,9 @@ namespace Projeto_Medicamento
             {
 
                 Console.WriteLine("Escolha a opção desejada: ");
-                op = int.Parse(Console.ReadLine());
+                ax = int.Parse(Console.ReadLine());
 
-                switch (op)
+                switch (ax)
                 {
                     case 1:
 
@@ -142,7 +142,7 @@ namespace Projeto_Medicamento
 
 
                 }
-            } while (op != 0);
+            } while (ax != 0);
                     Console.ReadKey();
             #endregion
         }

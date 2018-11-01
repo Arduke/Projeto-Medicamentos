@@ -11,3 +11,10 @@ C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\
 C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.csproj.CoreCompileInputs.cache
 C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.exe
 C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\Medicamentos\obj\Debug\Medicamentos.pdb
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\bin\Debug\Medicamentos.exe.config
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\bin\Debug\Medicamentos.exe
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\bin\Debug\Medicamentos.pdb
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\obj\Debug\Medicamentos.csprojAssemblyReference.cache
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\obj\Debug\Medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\obj\Debug\Medicamentos.exe
+C:\Users\Kadu\Downloads\Medicamentos-master\Medicamentos\obj\Debug\Medicamentos.pdb
